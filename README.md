@@ -1,4 +1,0 @@
-demo
-====
-
-android activity example
